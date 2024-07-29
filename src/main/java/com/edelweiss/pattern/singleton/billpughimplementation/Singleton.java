@@ -1,13 +1,13 @@
-package com.edelweiss.pattern.singleton;
+package com.edelweiss.pattern.singleton.billpughimplementation;
 
 
 // Bill Pugh Singleton design
-public class Data
+public class Singleton
 {
 	private String stringData;
 	private int intData;
 
-	private Data()
+	private Singleton()
 	{
 	}
 
@@ -33,10 +33,10 @@ public class Data
 
 	private static class SingletonHelper
 	{
-		private static Data INSTANCE = new Data();
+		private static Singleton INSTANCE = new Singleton();
 	}
 
-	public static Data getInstance()
+	public static Singleton getInstance()
 	{
 		return SingletonHelper.INSTANCE;
 	}
