@@ -1,4 +1,4 @@
-package com.edelweiss.pattern.factory.logger;
+package com.edelweiss.pattern.creational.factory.logger;
 
 public class XmlLogger implements Logger
 {

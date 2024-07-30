@@ -1,4 +1,4 @@
-package com.edelweiss.pattern.abstractFactory.checkbox;
+package com.edelweiss.pattern.creational.abstractFactory.checkbox;
 
 public class MacCheckbox implements Checkbox
 {

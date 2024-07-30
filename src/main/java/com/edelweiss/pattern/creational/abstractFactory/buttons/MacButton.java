@@ -1,4 +1,4 @@
-package com.edelweiss.pattern.abstractFactory.buttons;
+package com.edelweiss.pattern.creational.abstractFactory.buttons;
 
 public class MacButton implements Button
 {

@@ -1,4 +1,4 @@
-package com.edelweiss.pattern.singleton.billpughimplementation;
+package com.edelweiss.pattern.creational.singleton.billpughimplementation;
 
 
 // Bill Pugh Singleton design

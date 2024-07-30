@@ -1,4 +1,4 @@
-package com.edelweiss.pattern.singleton.serializable;
+package com.edelweiss.pattern.creational.singleton.serializable;
 
 import java.io.Serial;
 import java.io.Serializable;

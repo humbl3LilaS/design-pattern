@@ -1,9 +1,9 @@
-package com.edelweiss.pattern.factory;
+package com.edelweiss.pattern.creational.factory;
 
-import com.edelweiss.pattern.factory.factory.LoggerFactory;
-import com.edelweiss.pattern.factory.factory.TextLoggerFactory;
-import com.edelweiss.pattern.factory.factory.XmlLoggerFactory;
-import com.edelweiss.pattern.factory.logger.Logger;
+import com.edelweiss.pattern.creational.factory.factory.LoggerFactory;
+import com.edelweiss.pattern.creational.factory.factory.TextLoggerFactory;
+import com.edelweiss.pattern.creational.factory.factory.XmlLoggerFactory;
+import com.edelweiss.pattern.creational.factory.logger.Logger;
 
 
 enum Mode
